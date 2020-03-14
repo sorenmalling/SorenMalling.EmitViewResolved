@@ -1,0 +1,17 @@
+{
+    "name": "sorenmalling/emit-view-resolved",
+    "type": "neos-package",
+    "require": {
+        "neos/flow": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "SorenMalling\\EmitViewResolved\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "SorenMalling.EmitViewResolved"
+        }
+    }
+}
